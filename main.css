@@ -1,3 +1,28 @@
 * {
   font-family: Verdana, sans-serif;
 }
+
+#header {
+    background-color:gray;
+    color:black;
+    text-align:center;
+    padding:5px;
+    
+}
+#section1 {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#section2 {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:gray;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
